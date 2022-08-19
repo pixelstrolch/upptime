@@ -22,18 +22,20 @@
     "url": "https://accessible-pdf.info",
     "icon": "https://favicons.githubusercontent.com/accessible-pdf.info",
     "slug": "accessible-pdf-info",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 456,
     "timeDay": 1009,
     "timeWeek": 456,
     "timeMonth": 456,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-19": 0
+    }
   },
   {
     "name": "creationeliane.ch",
@@ -58,7 +60,7 @@
     "url": "https://familienverein-wahlen.ch",
     "icon": "https://favicons.githubusercontent.com/familienverein-wahlen.ch",
     "slug": "familienverein-wahlen-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 645,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-19": 0
+    }
   }
 ]
