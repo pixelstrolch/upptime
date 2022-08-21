@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1560,
-    "timeDay": 1548,
-    "timeWeek": 1560,
-    "timeMonth": 1560,
-    "timeYear": 1560,
+    "time": 2538,
+    "timeDay": 6450,
+    "timeWeek": 2538,
+    "timeMonth": 2538,
+    "timeYear": 2538,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/accessible-pdf.info",
     "slug": "accessible-pdf-info",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 366,
-    "timeDay": 256,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
-    "dailyMinutesDown": {
-      "2022-08-20": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 350,
+    "timeDay": 222,
+    "timeWeek": 350,
+    "timeMonth": 350,
+    "timeYear": 350,
+    "dailyMinutesDown": {}
   },
   {
     "name": "creationeliane.ch",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1543,
-    "timeDay": 2069,
-    "timeWeek": 1543,
-    "timeMonth": 1543,
-    "timeYear": 1543,
+    "time": 1648,
+    "timeDay": 2068,
+    "timeWeek": 1648,
+    "timeMonth": 1648,
+    "timeYear": 1648,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/familienverein-wahlen.ch",
     "slug": "familienverein-wahlen-ch",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 430,
-    "timeDay": 220,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
-    "dailyMinutesDown": {
-      "2022-08-20": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 410,
+    "timeDay": 196,
+    "timeWeek": 410,
+    "timeMonth": 410,
+    "timeYear": 410,
+    "dailyMinutesDown": {}
   }
 ]
