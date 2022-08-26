@@ -22,18 +22,20 @@
     "url": "https://accessible-pdf.info",
     "icon": "https://favicons.githubusercontent.com/accessible-pdf.info",
     "slug": "accessible-pdf-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 227,
-    "timeWeek": 263,
+    "timeWeek": 256,
     "timeMonth": 311,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   },
   {
     "name": "creationeliane.ch",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 443,
     "timeDay": 370,
-    "timeWeek": 375,
+    "timeWeek": 397,
     "timeMonth": 443,
     "timeYear": 443,
     "dailyMinutesDown": {}
