@@ -22,19 +22,19 @@
     "url": "https://accessible-pdf.info",
     "icon": "https://favicons.githubusercontent.com/accessible-pdf.info",
     "slug": "accessible-pdf-info",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 139,
-    "timeWeek": 226,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 275,
+    "timeDay": 143,
+    "timeWeek": 217,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2022-08-28": 0
+      "2022-08-28": 51
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://familienverein-wahlen.ch",
     "icon": "https://favicons.githubusercontent.com/familienverein-wahlen.ch",
     "slug": "familienverein-wahlen-ch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 238,
-    "timeWeek": 440,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 407,
+    "timeDay": 196,
+    "timeWeek": 404,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2022-08-28": 0
+      "2022-08-28": 51
     }
   }
 ]
