@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/accessible-pdf.info",
     "slug": "accessible-pdf-info",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 249,
     "timeDay": 219,
     "timeWeek": 187,
     "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-09-07": 10,
       "2022-09-03": 57,
       "2022-08-28": 51
     }
