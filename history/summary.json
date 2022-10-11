@@ -4,27 +4,29 @@
     "url": "https://stebre.ch",
     "icon": "https://favicons.githubusercontent.com/stebre.ch",
     "slug": "stebre-ch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
     "time": 149,
     "timeDay": 149,
     "timeWeek": 149,
     "timeMonth": 149,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-11": 1
+    }
   },
   {
     "name": "accessible-pdf.info",
     "url": "https://accessible-pdf.info",
     "icon": "https://favicons.githubusercontent.com/accessible-pdf.info",
     "slug": "accessible-pdf-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -34,6 +36,7 @@
     "timeMonth": 235,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2022-10-11": 0,
       "2022-09-03": 57,
       "2022-08-28": 51
     }
