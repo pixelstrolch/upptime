@@ -43,18 +43,20 @@
     "url": "https://creationeliane.ch",
     "icon": "https://icons.duckduckgo.com/ip3/creationeliane.ch.ico",
     "slug": "creationeliane-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2337,
-    "timeDay": 1906,
-    "timeWeek": 2817,
-    "timeMonth": 2732,
-    "timeYear": 2337,
-    "dailyMinutesDown": {}
+    "time": 2311,
+    "timeDay": 1206,
+    "timeWeek": 2560,
+    "timeMonth": 2665,
+    "timeYear": 2311,
+    "dailyMinutesDown": {
+      "2022-11-17": 0
+    }
   },
   {
     "name": "familienverein-wahlen.ch",
