@@ -43,19 +43,19 @@
     "url": "https://creationeliane.ch",
     "icon": "https://icons.duckduckgo.com/ip3/creationeliane.ch.ico",
     "slug": "creationeliane-ch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2300,
-    "timeDay": 1044,
-    "timeWeek": 2113,
-    "timeMonth": 2637,
-    "timeYear": 2300,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 2302,
+    "timeDay": 1524,
+    "timeWeek": 2154,
+    "timeMonth": 2632,
+    "timeYear": 2302,
     "dailyMinutesDown": {
-      "2022-11-27": 0
+      "2022-11-27": 18
     }
   },
   {
