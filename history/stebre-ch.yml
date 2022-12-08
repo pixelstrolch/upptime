@@ -1,7 +1,7 @@
 url: https://stebre.ch
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2022-12-08T05:41:49.539Z
+status: down
+code: 500
+responseTime: 3131
+lastUpdated: 2022-12-08T06:03:38.398Z
 startTime: Tue Oct 11 2022 18:38:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
