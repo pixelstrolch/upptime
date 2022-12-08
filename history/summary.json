@@ -4,19 +4,19 @@
     "url": "https://stebre.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stebre.ch.ico",
     "slug": "stebre-ch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 1661,
-    "timeWeek": 1131,
-    "timeMonth": 580,
-    "timeYear": 436,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 434,
+    "timeDay": 1508,
+    "timeWeek": 1082,
+    "timeMonth": 573,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2022-12-08": 0
+      "2022-12-08": 7
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "accessible-pdf-info",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 330,
     "timeDay": 1389,
@@ -36,7 +36,6 @@
     "timeMonth": 493,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2022-12-08": 7,
       "2022-09-03": 57,
       "2022-08-28": 51
     }
@@ -69,9 +68,9 @@
     "slug": "familienverein-wahlen-ch",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 455,
     "timeDay": 1445,
@@ -79,7 +78,6 @@
     "timeMonth": 672,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2022-12-08": 7,
       "2022-11-30": 22,
       "2022-09-03": 57,
       "2022-08-28": 51
