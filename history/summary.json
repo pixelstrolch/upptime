@@ -4,19 +4,19 @@
     "url": "https://stebre.ch",
     "icon": "https://icons.duckduckgo.com/ip3/stebre.ch.ico",
     "slug": "stebre-ch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 1708,
-    "timeWeek": 823,
-    "timeMonth": 386,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 318,
+    "timeDay": 1186,
+    "timeWeek": 761,
+    "timeMonth": 379,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-12-08": 0
+      "2022-12-08": 7
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "accessible-pdf-info",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 304,
     "timeDay": 1205,
@@ -36,7 +36,6 @@
     "timeMonth": 424,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-12-08": 7,
       "2022-09-03": 57,
       "2022-08-28": 51
     }
