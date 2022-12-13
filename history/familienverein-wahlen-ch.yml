@@ -1,7 +1,7 @@
 url: https://familienverein-wahlen.ch
-status: down
-code: 500
-responseTime: 3034
-lastUpdated: 2022-12-13T14:53:42.342Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2022-12-13T15:00:47.692Z
 startTime: Wed Aug 17 2022 18:07:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
